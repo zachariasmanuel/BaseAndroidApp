@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/SubModuleAndroidApp/submodule" />
+            <option value="$PROJECT_DIR$/SubModuleAndroidApp/algorithm" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

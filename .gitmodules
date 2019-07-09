@@ -1,4 +1,3 @@
 [submodule "SubModuleAndroidApp"]
 	path = SubModuleAndroidApp
-	url = git@github.com:zachariasmanuel/SubModuleAndroidApp.git
-	branch = master
+	url = https://github.com/zachariasmanuel/SubModuleAndroidApp

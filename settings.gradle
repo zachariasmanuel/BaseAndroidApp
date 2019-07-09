@@ -1,2 +1,2 @@
-include ':app', ':submodule'
-project(':submodule').projectDir = new File('SubModuleAndroidApp/submodule')
+include ':app', ':algorithm'
+project(':algorithm').projectDir = new File('SubModuleAndroidApp/algorithm')
